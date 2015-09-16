@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:42:39.017789
-#+TITLE: 清微齋法
-#+PROPERTY: DZID  DZ0224
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—282 二卷 洞真部方法類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
